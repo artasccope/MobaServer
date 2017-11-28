@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <AtkPoint Index="1" TeamId="1" PosX="228" PosY="0.2" PosZ="230" Parent="-1" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="2" TeamId="1" PosX="198.8" PosY="0.2" PosZ="221.5" Parent="1" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="3" TeamId="1" PosX="182.3" PosY="0.2" PosZ="212.6" Parent="2" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="4" TeamId="1" PosX="239.8" PosY="0.2" PosZ="178.7" Parent="1" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="5" TeamId="1" PosX="240.8" PosY="0.2" PosZ="116.4" Parent="4" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="6" TeamId="1" PosX="232.6" PosY="0.2" PosZ="43" Parent="5" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="7" TeamId="1" PosX="188.2" PosY="0.2" PosZ="194.4" Parent="1" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="8" TeamId="1" PosX="163.4" PosY="0.2" PosZ="163.5" Parent="7" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="9" TeamId="1" PosX="135" PosY="0.2" PosZ="135" Parent="8" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="10" TeamId="1" PosX="180.9" PosY="0.2" PosZ="242.5" Parent="1" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="11" TeamId="1" PosX="104" PosY="0.2" PosZ="246.700012" Parent="10" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="12" TeamId="1" PosX="41.8000031" PosY="0.2" PosZ="235.9" Parent="11" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="13" TeamId="1" PosX="222.9" PosY="0.2" PosZ="208.4" Parent="1" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="14" TeamId="1" PosX="216.6" PosY="0.2" PosZ="190.1" Parent="13" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="15" TeamId="2" PosX="24" PosY="0.2" PosZ="22.1999969" Parent="-1" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="16" TeamId="2" PosX="33" PosY="0.2" PosZ="47.3000031" Parent="15" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="17" TeamId="2" PosX="36.3000031" PosY="0.2" PosZ="69.6" Parent="16" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="18" TeamId="2" PosX="61.8000031" PosY="0.2" PosZ="60.6" Parent="15" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="19" TeamId="2" PosX="88.2" PosY="0.2" PosZ="88.9" Parent="18" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="20" TeamId="2" PosX="124.2" PosY="0.2" PosZ="118.3" Parent="19" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="21" TeamId="2" PosX="73.3" PosY="0.2" PosZ="8.5" Parent="15" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="22" TeamId="2" PosX="151.2" PosY="0.2" PosZ="3.800003" Parent="21" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="23" TeamId="2" PosX="210.4" PosY="0.2" PosZ="13.5999985" Parent="22" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="24" TeamId="2" PosX="12.0999985" PosY="0.2" PosZ="74.9" Parent="15" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="25" TeamId="2" PosX="7.40000153" PosY="0.2" PosZ="145" Parent="24" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="26" TeamId="2" PosX="14.3000031" PosY="0.2" PosZ="206.2" Parent="25" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="27" TeamId="2" PosX="49.3000031" PosY="0.2" PosZ="29.9000015" Parent="15" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+  <AtkPoint Index="28" TeamId="2" PosX="73" PosY="0.2" PosZ="35" Parent="27" CouldAtkOnAllPass="true" Cost="1" Value="1" />
+</root>
